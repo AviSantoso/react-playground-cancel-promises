@@ -1,2 +1,2 @@
-# react-playground-cancel-promises
+# personal-react-pomodoro-clock
 Created with CodeSandbox
